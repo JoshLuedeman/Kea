@@ -1,0 +1,13 @@
+# Use the official PostgreSQL image as the base image
+FROM postgres:latest
+
+# Set the environment variables for the PostgreSQL database
+ENV POSTGRES_USER kea
+ENV POSTGRES_PASSWORD kea
+ENV POSTGRES_DB kea
+
+# Copy the SQL scripts to the container
+COPY ./db/init.sql /docker-entrypoint-initdb.d/
+
+# Expose the default PostgreSQL port
+EXPOSE 5432

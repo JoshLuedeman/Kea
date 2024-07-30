@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kea.web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9b1d1a740f495fa60adbb1a9ac07d5c63f6c260")]
 [assembly: System.Reflection.AssemblyProductAttribute("kea.web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kea.web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

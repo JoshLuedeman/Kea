@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "AzMrDRZG++sWHhaDUX63FaEbN5NBO9B5YcnpIvgZl9nnTB2p2AxNrLjROSjTtjIgLfrotSnrmmUJ7tgtWbXuBw==",
+  "dgSpecHash": "VIKDNjJuAWK8tGvI2MB0IhQbE+8p25glSu4KaGrTF5kke+BReRKEQJGpb1NH0IVNoBEo1lwj3Q97j12sJIJEcw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joluedem\\source\\joshluedeman\\Kea\\kea.web\\kea.web.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/josh/git/Kea/kea.web/kea.web.csproj",
+  "expectedPackageFiles": [
+    "/Users/josh/.nuget/packages/microsoft.netcore.app.ref/7.0.17/microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "/Users/josh/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.17/microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "/Users/josh/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.17/microsoft.netcore.app.host.osx-arm64.7.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
